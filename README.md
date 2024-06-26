@@ -1,5 +1,10 @@
 ## FarmEasy: Your One-Stop Shop for Agricultural Products
 
+<div align="center">
+  <img src="https://img.freepik.com/free-vector/hand-drawn-flat-design-farmers-market-logo_23-2149337484.jpg?size=338&ext=jpg&ga=GA1.1.2116175301.1719360000&semt=ais_user" alt="FarmEasy Logo" width="200px">
+</div>
+
+
 **FarmEasy** is a powerful web application designed to revolutionize the agricultural trade landscape. It empowers both farmers and consumers by providing a user-friendly platform to connect, streamline transactions, and ensure a smooth buying and selling experience.
 
 ## Table of Contents
